@@ -42,9 +42,17 @@ A statistical and machine learning project focused on optimal NIPT timing, risk 
 
 [View Project Repository](https://github.com/nobody5558883/nipt-timing-and-abnormality-detection)
 
-### Project in Progress
+### Model Fitting for an Age- and Sex-Structured Bovine Tuberculosis Model
 
-A third research project is currently in progress and will be added after completion.
+**Status: Ongoing Research | Fall 2026**
+
+An ongoing infectious disease modeling project investigating the persistence of bovine tuberculosis in white-tailed deer populations in Michigan.
+
+I joined an existing collaborative research project to continue its empirical model-fitting phase. My planned work includes preparing surveillance data, estimating epidemiological parameters, evaluating model fit and uncertainty, and examining age- and sex-specific transmission patterns.
+
+This project integrates epidemiological modeling, biostatistics, and data science. Research data, internal code, parameter estimates, and preliminary results are not publicly available while the study is ongoing.
+
+[View Project Overview](https://github.com/nobody5558883/bovine-tuberculosis-model-fitting)
 
 ## Education
 
