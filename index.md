@@ -28,15 +28,19 @@ I am particularly interested in using data science to improve disease screening,
 - **Tools:** GitHub, Jupyter notebook, LaTeX
 - **Methods:** Statistical Modeling, Machine Learning, Optimization, Monte Carlo Simulation, and Data Visualization
 
-## Selected Projects
+## Projects
 
-### Combating Illegal Trade in Green Sea Turtles
+### Green Sea Turtle Illegal Trade Modeling
 
-A multi-model research project combining ARIMA forecasting, agent-based modeling, SLSQP optimization, ant colony optimization, and Monte Carlo simulation to study wildlife monitoring and patrol strategies.
+A multi-model data science project investigating strategies for monitoring and combating illegal wildlife trade.
 
-### Optimizing NIPT Timing and Detecting Chromosomal Abnormalities
+[View Project Repository](https://github.com/nobody5558883/green-sea-turtle-illegal-trade-modeling)
 
-A mathematical modeling project that applies statistical learning, risk minimization, ensemble learning, and conformal prediction to study NIPT timing and chromosome abnormality screening.
+### Optimal NIPT Timing and Chromosomal Abnormality Detection
+
+A statistical and machine learning project focused on optimal NIPT timing, risk modeling, and chromosomal abnormality detection.
+
+[View Project Repository](https://github.com/nobody5558883/nipt-timing-and-abnormality-detection)
 
 ### Project in Progress
 
